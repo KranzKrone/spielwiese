@@ -1,0 +1,16 @@
+* {
+padding: 0;
+margin: 0;
+border: 0;
+}
+
+#wrapper {
+display: block;
+width: 960px;
+}
+
+#block {
+display: block;
+float: left;
+width: 300px;
+}
